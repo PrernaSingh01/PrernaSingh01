@@ -1,5 +1,8 @@
-# 💫 About Me:
-    👩🏻‍💻Name: "Prerna Singh"<br>    📚Education: "BSC IT"<br>    🏡Location: "Jamshedpur, Jharkhand, India"<br>    😁Fun Fact: "Youtuber, Athlete & Photographer"<br>    
+    Hello Folks 👩🏻‍💻
+    👩🏻‍💻Name: "Prerna Singh"<br>  
+    📚Education: "BSC IT"<br>   
+    🏡Location: "Jamshedpur, Jharkhand, India"<br>  
+    😁Fun Fact: "Youtuber, Athlete & Photographer"<br>    
 
 
 ## 🌐 Socials:
