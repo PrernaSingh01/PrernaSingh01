@@ -1,4 +1,4 @@
-(./your-header-image-name.png)
+![Header](./your-header-image-name.png)
    Hello Folks 👩🏻‍💻
     
    👩🏻‍💻Name: "Prerna Singh" 
