@@ -1,9 +1,10 @@
-    Hello Folks 👩🏻‍💻
+   ![Header](./your-header-image-name.png)
+   Hello Folks 👩🏻‍💻
     
-    👩🏻‍💻Name: "Prerna Singh" 
-    📚Education: "BSC IT"   
-    🏡Location: "Jamshedpur, Jharkhand, India"  
-    😁Fun Fact: "Youtuber, Athlete & Photographer"    
+   👩🏻‍💻Name: "Prerna Singh" 
+   📚Education: "BSC IT"   
+   🏡Location: "Jamshedpur, Jharkhand, India"  
+   😁Fun Fact: "Youtuber, Athlete & Photographer"    
 
 
 ## 🌐 Socials:
