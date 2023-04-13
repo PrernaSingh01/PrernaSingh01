@@ -1,11 +1,10 @@
- Hello Folks 👩🏻‍💻 
+Hello Folks 👩🏻‍💻 
  
- <img align="right" alt="coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fscaler-create-impact-coding-programming-chill-   gif-24991316&psig=AOvVaw2iES0DiMSDJyE_ibm-IMsQ&ust=1681455802656000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjvhNOlpv4CFQAAAAAdAAAAABAN">
-    
-   👩🏻‍💻Name: "Prerna Singh" 
-   📚Education: "BSC IT"   
-   🏡Location: "Jamshedpur, Jharkhand, India"  
-   😁Fun Fact: "Youtuber, Athlete & Photographer"    
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+👩🏻‍💻Name: "Prerna Singh" 
+📚Education: "BSC IT"   
+🏡Location: "Jamshedpur, Jharkhand, India"  
+😁Fun Fact: "Youtuber, Athlete & Photographer"    
 
 
 ## 🌐 Socials:
