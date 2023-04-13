@@ -1,5 +1,5 @@
 ![Header](./your-header-image-name.png)
-   Hello Folks 👩🏻‍💻
+  Hello Folks 👩🏻‍💻
     
    👩🏻‍💻Name: "Prerna Singh" 
    📚Education: "BSC IT"   
