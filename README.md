@@ -28,7 +28,7 @@ Bio:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrernaSingh01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
+## 🐦 Tweets
 [![](https://gtce.itsvg.in/api?username=i_prernasingh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
