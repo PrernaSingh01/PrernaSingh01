@@ -38,7 +38,7 @@ Bio:
 ![](https://github-contributor-stats.vercel.app/api?username=PrernaSingh01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cometchat.com%2Fblog%2Fprogramming-memes-for-developers&psig=AOvVaw0rimrLXpz5MetfsHqgDyC_&ust=1683565551585000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjq-8fY4_4CFQAAAAAdAAAAABAE/" width="512px"/>
+<img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrernaSingh01&icon=0&color=0)](https://visitcount.itsvg.in)
