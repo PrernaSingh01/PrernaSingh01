@@ -6,8 +6,7 @@
 
 ```yaml
 Bio:
-    
-    
+   
     👩🏻‍💻Name: "Prerna Singh"
     📚Education: "BSC IT"
     🏡Location: "Jamshedpur, Jharkhand, India"
