@@ -37,7 +37,7 @@ Bio:
 ![](https://github-contributor-stats.vercel.app/api?username=PrernaSingh01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPeiTLVnIkPVoSzV6A3bt_eQrEzddthN8i1HltD-rAg&s"/>
+<img src="https://i.pinimg.com/236x/06/52/a3/0652a31ea2cb219526e2ac4d799bf9d5.jpg"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrernaSingh01&icon=0&color=0)](https://visitcount.itsvg.in)
