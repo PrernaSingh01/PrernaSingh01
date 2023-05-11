@@ -6,7 +6,7 @@
 
 ```yaml
 Bio:
-    👉----_Frontend 
+    👉----_
     
     👩🏻‍💻Name: "Prerna Singh"
     📚Education: "BSC IT"
