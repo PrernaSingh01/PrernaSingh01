@@ -5,7 +5,7 @@
 
 
 ```yaml
-Bio:
+<Bio>:
    
     👩🏻‍💻Name: "Prerna Singh"
     📚Education: "BSC IT"
