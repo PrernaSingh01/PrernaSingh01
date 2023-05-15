@@ -8,7 +8,7 @@
 <Bio>:
    
     👩🏻‍💻Name: "Prerna Singh"
-    📚Education: "B.SC IT"
+    📚Education: "B.SC. IT"
     🏡Location: "Jamshedpur, Jharkhand, India"
     😁Fun Fact: "Youtuber, Athlete & Photographer"   
 ```
