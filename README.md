@@ -37,7 +37,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PrernaSingh01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://pbs.twimg.com/media/FiWyYzQWAAMjnTn.jpg"/>
+<img src="https://memelogy-images.s3.amazonaws.com/ce3d3d6a-4703-42a1-a2a6-8f28bbdf3d45.jpg"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrernaSingh01&icon=0&color=0)](https://visitcount.itsvg.in)
