@@ -35,7 +35,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PrernaSingh01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://community.gameupafrica.com/uploads/default/original/1X/8ad391f30f5d893b106f322a6641fad979eb6e6f.jpeg"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlXXgNmCs729H1IQuKoyjA3zwTSYpDskPmu7hYmo&s"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrernaSingh01&icon=0&color=0)](https://visitcount.itsvg.in)
