@@ -35,7 +35,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PrernaSingh01&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJ5N3fkJQ6pIsJbnUHtQ9F1fAogwZUNchyjpmG1d_JdnBme-yIa79tcCwCsgK3pkyUcM&usqp=CAU"/>
+<img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/JavaScript-Developer-Memes.jpg?x86257"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrernaSingh01&icon=0&color=1)](https://visitcount.itsvg.in)
