@@ -35,7 +35,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PrernaSingh01&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bebe44f3e19ce7517a1_s62ArniRRC2JEeZRbH3jL8uA6RzCa3va7ifEc4I5P0g_WOAQOcs5GTn552DT5j6NcKcUQT0y3qiGr_cQcZWXrEHpjU5lOsdhE5XO5MTbvRe7V7hQ7JhkfoKWfOloevM8fewXC2-v.png"/>
+<img src="https://devhumor.com/content/uploads/images/February2023/csharp_vs_js.jpg"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrernaSingh01&icon=0&color=1)](https://visitcount.itsvg.in)
