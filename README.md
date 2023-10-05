@@ -35,7 +35,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PrernaSingh01&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://devhumor.com/content/uploads/images/February2023/csharp_vs_js.jpg"/>
+<img src="https://devhumor.com/content/uploads/images/June2022/learning_programming.jpg"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrernaSingh01&icon=0&color=1)](https://visitcount.itsvg.in)
