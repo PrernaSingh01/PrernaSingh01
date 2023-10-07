@@ -7,7 +7,7 @@
 ```yaml
 <Bio>:
    
-    👩🏻‍💻Name: "Prerna Singh"
+    👩🏻‍💻Name: "Prerna Sing"
     📚Education: "B.SC.IT"
     🏡Location: "Jamshedpur, India"
     😁Fun Fact: "Youtuber, Athlete & Photographer"   
