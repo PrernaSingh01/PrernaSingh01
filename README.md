@@ -1,4 +1,4 @@
-<h1  align="center">H𝐞𝐥𝐥𝐨 𝐭𝐡e𝐫𝐞👋, 𝐟𝐞𝐥𝐥𝐨w <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👩🏻‍💻</h1>
+<h1  align="center">H𝐞𝐥𝐥𝐨 𝐭𝐡e𝐫👋, 𝐟𝐞𝐥𝐥𝐨w <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!👩🏻‍💻</h1>
 <hr>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img width="33%" align="right"   src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
